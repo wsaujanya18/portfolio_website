@@ -1,0 +1,50 @@
+project:
+  type: website
+
+website:
+  title: "Saujanya Wagle"
+  back-to-top-navigation: true
+  navbar:
+    background: primary
+    foreground: secondary
+    left:
+      - text: HOME
+        href: index.qmd
+      - text: PAPERS
+        # href: resume.qmd
+      - text: BLOG
+        href: ./blog
+      - text: ABOUT
+        href: about.qmd
+    tools:
+      - icon: twitter-x
+        href: https://twitter.com/wsaujanya
+      - icon: github
+        href: https://github.com/wsaujanya18
+      # - icon: envelope-fill
+      #   href: 
+        
+
+# website:
+#   title: "Saujanya Wagle"
+#   navbar:
+#     background: primary
+#     search: true
+#     left:                     # You can Choose Between left and right
+#       - text: "Home"          # Title of Navbar button
+#         href: index.qmd       # Link to where that clicking on that section of navbar will take me
+#       - text: "Papers"
+#         href: papers.qmd
+#       - text: "Blog"
+#         menu:
+#           - apple.qmd         # Drop down menus for navbar items
+#           - ball.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+

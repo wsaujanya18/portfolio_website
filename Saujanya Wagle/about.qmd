@@ -1,0 +1,74 @@
+---
+title: "About"
+---
+
+# Saujanya Wagle
+
+Dedicated data analyst with expertise in survey data analysis, committed to delivering high-quality insights and actionable recommendations.
+
+- Email: [wsaujanya@gmail.com](mailto:wsaujanya@gmail.com)
+- Phone: [+977-9845242222](tel:9779845242222)
+- Location: Chitwan, Nepal
+- GitHub: [https://github.com/wsaujanya18](https://github.com/wsaujanya18)
+
+---
+
+## Work Experience
+
+### Institute for Social and Environmental Research (ISER-N)
+**Research Officer - Analyst**  
+*Oct 2022 - Present*  
+- Led data processing and analysis for a longitudinal survey spanning since 1995, ensuring comprehensive analysis and historical data utilization.
+- Designed, programmed, and maintained ETL pipelines for efficient data processing from diverse sources.
+- Automated data validation processes for ongoing projects, ensuring data integrity and research reliability.
+- Prepared and analyzed data from diverse studies, deriving strategic insights for decision-making.
+- Created interactive dashboards for clear and concise data visualization, aiding stakeholder understanding.
+- Demonstrated leadership by overseeing intern teams in quality assurance and dashboard maintenance.
+
+### Hinduja Global Solutions (HGS)
+**Technology Lead - Data Sciences**  
+*Apr 2020 - Dec 2021*  
+- Programmed and conducted engaging surveys, capturing insightful feedback and strategic recommendations from over 40,000 employees.
+- Built custom dashboards that allowed stakeholders to quickly access and analyze data.
+- Analyzed employee feedback data alongside attrition data to generate comprehensive reports, yielding deep insights into employee dynamics and retention.
+- Utilized Natural Language Processing models to analyze employee feedback, providing key insights into workforce sentiment.
+- Guided junior research assistants in data preparation and supervised a website development intern team.
+
+**Data Analyst Intern**  
+*Oct 2019 - Mar 2020*  
+- Assisted in designing surveys, questionnaires, and feedback forms.
+- Used statistical techniques to analyze employee feedback data.
+- Created detailed reports summarizing employee satisfaction findings and insights.
+
+---
+
+## Education
+
+- **PGDM (Marketing & Analytics)**, IFIM Business School, Bangalore, India – Apr 2020 – *CGPA 7/10*
+- **BBA (Marketing)**, Sri Sri University, Odisha, India – Apr 2018 – *CGPA 6.6/10*
+- **HSEB (12th)**, Skyrider Higher Secondary Boarding School, Chitwan – Mar 2015 – *71%*
+
+---
+
+## Projects
+
+### Employee Satisfaction (ESAT) Survey  
+*Apr 2020 & Jun 2021*  
+- Programmed and conducted secure survey distribution to 40,000 employees.
+- Created interactive dashboards for comprehensive insights.
+- Provided evidence-based strategies for improving employee satisfaction.
+
+### Chitwan Valley Family Study (CVFS) - Data Management  
+*May 2023 & Ongoing*  
+- Processed and cleaned survey record data collected over 27 years.
+- Developed a data validation tool to analyze processed data.
+- Integrated longitudinal survey data with standalone projects for enhanced analysis.
+
+---
+
+## Skills
+
+- **Leadership:** Led Voice of Employee (VoE) project intern team, mentored associate research officers, and supervised website development team at ISER-N.
+- **Quantitative:** Conducted statistical tests, modeling, and interpretation on static and live data; analyzed unstructured text for meaningful insights.
+- **Communication:** Engaging presentations, effective dashboard design, strong writing skills, and interpersonal skills.
+- **Tools and Programming Languages:** MS Office, Qualtrics, SQL, Stata, Power BI, Tableau, SPSS, Python, Pandas, Matplotlib, Seaborn, Beautiful Soup, Regular Expression, Scikit-Learn
